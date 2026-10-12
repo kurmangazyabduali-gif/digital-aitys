@@ -1,0 +1,8 @@
+# Core NLP requirements (стандартная библиотека Python)
+# Для запуска REST API:
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+
+# Для Telegram-бота (опционально):
+aiogram>=3.4.0
